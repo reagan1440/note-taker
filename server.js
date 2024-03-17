@@ -1,6 +1,6 @@
 const express = require('express');
-const apiRoutes = require('./Develop/routes/apiRoutes.js');
-const htmlRoutes = require('./Develop/routes/htmlRoutes.js');
+const apiRoutes = require('./routes/apiRoutes.js');
+const htmlRoutes = require('./routes/htmlRoutes.js');
 
 const app = express ();
 
