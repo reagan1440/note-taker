@@ -29,3 +29,14 @@ This project is licensed under the MIT license.
 
 ## Questions
 For any questions, please contact [reagan1440](https://github.com/reagan1440) via email at reaganrl14@gmail.com.
+
+## screenshots of updated web page
+![Alt text](<images/Screenshot (18).png>)
+
+## links
+
+### deployed page
+https://reagansprofessional-note-taker-9e9db5e2619c.herokuapp.com/notes
+
+## repository
+https://github.com/reagan1440/professional-note-taker
